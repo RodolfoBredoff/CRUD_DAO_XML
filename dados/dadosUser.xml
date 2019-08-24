@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<usuarios>
+  <usuario>
+    <id>1</id>
+    <nome>kelvin</nome>
+    <email>ho</email>
+  </usuario>
+  <usuario>
+    <id>2</id>
+    <nome>romario</nome>
+    <email>ho</email>
+  </usuario>
+  <usuario>
+    <id>3</id>
+    <nome>rodl</nome>
+    <email>sdkjf</email>
+  </usuario>
+  <usuario>
+    <id>4</id>
+    <nome>asd</nome>
+    <email>aaaa</email>
+  </usuario>
+  <usuario>
+    <id>5</id>
+    <nome>Rodolfo</nome>
+    <email>Cury</email>
+  </usuario>
+  <usuario>
+    <id>6</id>
+    <nome>Rodlfo</nome>
+    <email>rodolfo@gmail.com</email>
+  </usuario>
+</usuarios>
